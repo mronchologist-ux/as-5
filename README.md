@@ -14,3 +14,7 @@ Problem Statement: Write a Python program that:
 2.   Extracts the first five elements from the list.
 3.   Reverses these extracted elements.
 4.   Prints both the extracted list and the reversed list
+
+
+
+acording to feedback edit assignment 2 and also i upload revised file as file name REVISED_assignment_5_task_2.py
